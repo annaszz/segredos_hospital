@@ -6,3 +6,5 @@
 ### PARTE 2
 ![Diagrama ER do Sistema Hospitalar - 2](imgs/hospital_proa_2.jpg)
 
+### PARTE 3 - Alimentando o Banco 
+[Data Manipulation](hospital_proa_3.sql)
