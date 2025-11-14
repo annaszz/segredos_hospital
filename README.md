@@ -8,3 +8,6 @@
 
 ### PARTE 3 - Alimentando o Banco 
 [Data Manipulation](hospital_proa_3.sql)
+
+### PARTE 4 - Alterando Banco de Dados 
+[Alterando Banco](hospital_proa_4.sql)
