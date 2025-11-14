@@ -11,3 +11,6 @@
 
 ### PARTE 4 - Alterando Banco de Dados 
 [Alterando Banco](hospital_proa_4.sql)
+
+### PARTE 5 - Consultas
+[Consultas](hospital_proa_5.sql)
